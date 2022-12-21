@@ -11,3 +11,5 @@ url = "put here"
 
 run the download.py
 images will be saved in same folder as original name.
+
+Idea from https://stackoverflow.com/questions/46321949/downloading-a-whole-folder-of-files-from-url
